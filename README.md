@@ -1,5 +1,7 @@
 ## Rapid Evaluation Map
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mapmeld/GridMapAuth.svg)](https://greenkeeper.io/)
+
 <a href="http://gridmapauth.heroku.com">GridMapper-Node</a> draws a custom grid over a map.
 Each grid square is color-coded based on damage reports, allowing you to create, interpret, and inform the public with an online map.
 
